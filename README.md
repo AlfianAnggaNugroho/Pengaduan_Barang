@@ -1,6 +1,6 @@
 # Sistem Informasi Pengaduan Kehilangan Barang berbasis Web
 
-Template by: AdminLTE
+Template by: Alfian
 
 Langkah setup:
 
